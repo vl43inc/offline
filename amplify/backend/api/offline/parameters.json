@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "offline",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2022-02-24T23:06:30.317Z"
+}
